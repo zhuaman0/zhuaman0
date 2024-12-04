@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on GTS
 - 🌱 I’m currently learning Nuxt
-- 👯 I’m looking to collaborate on Kaspi.kz
+- 👯 I’m looking to collaborate on Koleso Group
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about Web Technology
 - 📫 How to reach me: https://www.linkedin.com/in/aman-zhumagali-29a73b306/
