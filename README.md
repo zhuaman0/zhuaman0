@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on GTS
+- 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning Nuxt
 - 👯 I’m looking to collaborate on Koleso Group
 - 🤔 I’m looking for help with coding
